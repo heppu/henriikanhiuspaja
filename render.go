@@ -8,8 +8,9 @@ import (
 )
 
 type Data struct {
-	Phone     string `json:"phone"`
-	Catalogue []struct {
+	Phone         string   `json:"phone"`
+	BusinessHours []string `json:"business_hours"`
+	Catalogue     []struct {
 		Header string `json:"header"`
 		Items  []struct {
 			Name  string `json:"name"`

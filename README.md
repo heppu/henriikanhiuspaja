@@ -1,5 +1,4 @@
-
-[![Build Status](https://travis-ci.com/heppu/henriikanhiuspaja.svg?branch=master)](https://travis-ci.com/heppu/henriikanhiuspaja)
+[![Build Status](https://travis-ci.com/heppu/henriikanhiuspaja.svg?token=xsgXLQpppqT3ngDxvNNC&branch=master)](https://travis-ci.com/heppu/henriikanhiuspaja)
 
 # Henriikan hiuspaja
 

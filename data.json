@@ -1,5 +1,11 @@
 {
     "phone": "044 9868979",
+    "business_hours": [
+        "ma 9-17",
+        "ti-ke 9-19",
+        "to-pe 9-17",
+        "la 10-14"
+    ],
     "catalogue": [
         {
             "header": "Leikkaukset",

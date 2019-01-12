@@ -38,10 +38,9 @@
                     </h2>
                 </header>
                 <p><strong>Auki</strong>
-                    <br>ma 9-17
-                    <br>ti-ke 9-19
-                    <br>to-pe 9-17
-                    <br>la 10-14
+                    {{ range .BusinessHours }}
+                        <br>{{ . }}
+                    {{ end }}
                     <br>
                     <strong>Puhelinnumero<br></strong>{{ .Phone }}
                 </p>
