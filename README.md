@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.com/heppu/henriikanhiuspaja.svg?branch=master)](https://travis-ci.com/heppu/henriikanhiuspaja)
+
 # Henriikan hiuspaja
 
 Web pages for [henriikanhiuspaja.fi](henriikanhiuspaja.fi)
