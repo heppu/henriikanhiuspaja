@@ -15,15 +15,19 @@
                     "price": "25€"
                 },
                 {
+                    "name": "Latvojen tasaus alle 30min",
+                    "price": "28€"
+                },
+                {
                     "name": "Leikkaus alle 45min",
                     "price": "31€"
                 },
                 {
-                    "name": "Mallinmuutosleikkaus",
+                    "name": "Mallinmuutosleikkaus 60min",
                     "price": "45€"
                 },
                 {
-                    "name": "Otsa- tai niskahiuksien leikkaus",
+                    "name": "Otsa-/niskahiusten leikkaus",
                     "price": "15€"
                 },
                 {
@@ -31,11 +35,15 @@
                     "price": "14€"
                 },
                 {
-                    "name": "Leikkaus alle 7 vuotialle",
+                    "name": "Leikkaus alle 7.v",
                     "price": "18€"
                 },
                 {
-                    "name": "Parran muotoilu",
+                    "name": "Leikkaus alle 12.v",
+                    "price": "25€"
+                },
+                {
+                    "name": "Parranmuotoilu",
                     "price": "10€"
                 }
             ]
