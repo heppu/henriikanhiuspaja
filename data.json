@@ -151,27 +151,6 @@
             ]
         },
         {
-            "header": "Kiharakäsittelyt",
-            "items": [
-                {
-                    "name": "Lyhyet hiukset",
-                    "price": "63€"
-                },
-                {
-                    "name": "Puolipitkät hiukset",
-                    "price": "75€"
-                },
-                {
-                    "name": "Pitkät hiukset",
-                    "price": "100€"
-                },
-                {
-                    "name": "Erikoispitkät hiukset",
-                    "price": "130€"
-                }
-            ]
-        },
-        {
             "header": "Olaplex-tehohoito",
             "items": [
                 {
@@ -193,56 +172,6 @@
                 {
                     "name": "Leikkauksen yhteydessä",
                     "price": "20€"
-                }
-            ]
-        },
-        {
-            "header": "Olaplex-tehohoito",
-            "items": [
-                {
-                    "name": "Olaplex-tehohoito",
-                    "price": "30€"
-                },
-                {
-                    "name": "Värjäyksen yhteydessä",
-                    "price": "15€"
-                },
-                {
-                    "name": "Vaalennuksen yhteydessä",
-                    "price": "20€"
-                },
-                {
-                    "name": "Permanentin yhteydessä",
-                    "price": "25€"
-                },
-                {
-                    "name": "Leikkauksen yhteydessä",
-                    "price": "20€"
-                }
-            ]
-        },
-        {
-            "header": "Ripset ja kulmat",
-            "items": [
-                {
-                    "name": "Ripsien ja kulmien värjäys sis. muotoilu",
-                    "price": "28€"
-                },
-                {
-                    "name": "Hiusten värjäyksen yhteydessä",
-                    "price": "20€"
-                },
-                {
-                    "name": "Ripsien värjäys",
-                    "price": "18€"
-                },
-                {
-                    "name": "Kulmien värjäys sis. muotoilu",
-                    "price": "18€"
-                },
-                {
-                    "name": "Kulmien muotoilu",
-                    "price": "8€"
                 }
             ]
         },
@@ -297,31 +226,6 @@
             ]
         },
         {
-            "header": "Ripsien pidennykset ja kestotaivutukset",
-            "items": [
-                {
-                    "name": "Klassiset ripsienpidennykset",
-                    "price": "85€"
-                },
-                {
-                    "name": "Huolto",
-                    "price": "60€ - 75€"
-                },
-                {
-                    "name": "Volyymiripset",
-                    "price": "110€"
-                },
-                {
-                    "name": "Volyymiripsien huolto",
-                    "price": "45€ - 90€"
-                },
-                {
-                    "name": "Ripsien kestotaivutus",
-                    "price": "85€"
-                }
-            ]
-        },
-        {
             "header": "Kampaukset",
             "items": [
                 {
@@ -339,36 +243,6 @@
                 {
                     "name": "Koekampaus",
                     "price": "15€ - 50€"
-                }
-            ]
-        },
-        {
-            "header": "Kampaukset",
-            "items": [
-                {
-                    "name": "Pesu ja föönikampaus",
-                    "price": "30€"
-                },
-                {
-                    "name": "Juhlakampaus",
-                    "price": "50€/h"
-                },
-                {
-                    "name": "Hääkampaus (sis. koekampaus)",
-                    "price": "110€"
-                },
-                {
-                    "name": "Koekampaus",
-                    "price": "15€ - 50€"
-                }
-            ]
-        },
-        {
-            "header": "Hiustenpidennykset ",
-            "items": [
-                {
-                    "name": "Pidennysten laitto / huolto",
-                    "price": "50€/h"
                 }
             ]
         },
