@@ -117,19 +117,6 @@
             ]
         },
         {
-            "header": "Vaalennukset ja raitatekniikat (hinta koostuu käytetystä ajasta ja aineista.)",
-            "items": [
-                {
-                    "name": "Vaalennukset",
-                    "price": "48€/h"
-                },
-                {
-                    "name": "Raidoitukset",
-                    "price": "48€/h"
-                }
-            ]
-        },
-        {
             "header": "Kiharakäsittelyt",
             "items": [
                 {
