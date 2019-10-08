@@ -188,24 +188,8 @@
             ]
         },
         {
-            "header": "Ripsien pidennykset ja kestotaivutukset",
+            "header": "Kestotaivutukset",
             "items": [
-                {
-                    "name": "Klassiset ripsienpidennykset",
-                    "price": "85€"
-                },
-                {
-                    "name": "Huolto",
-                    "price": "60€ - 75€"
-                },
-                {
-                    "name": "Volyymiripset",
-                    "price": "110€"
-                },
-                {
-                    "name": "Volyymiripsien huolto",
-                    "price": "45€ - 90€"
-                },
                 {
                     "name": "Ripsien kestotaivutus",
                     "price": "85€"
