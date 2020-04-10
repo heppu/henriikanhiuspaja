@@ -1,3 +1,10 @@
+INDEX := dist/index.html
+INPUT := data.json index.tmpl render.go
 
-dist/index.html: data.json index.tmpl
+all:${INDEX}
+
+${INDEX}: ${INPUT}
 	go run render.go
+
+clean:
+	rm ${INDEX}
