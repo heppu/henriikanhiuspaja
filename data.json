@@ -243,15 +243,6 @@
                     "price": ""
                 }
             ]
-        },
-        {
-            "header": "Perimme peruttamaattomasta ajasta 50% palvelun hinnasta.",
-            "items": [
-                {
-                    "name": "",
-                    "price": ""
-                }
-            ]
         }
     ]
 }
