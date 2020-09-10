@@ -128,19 +128,23 @@
             "items": [
                 {
                     "name": "Lyhyet hiukset",
-                    "price": "63€"
-                },
-                {
-                    "name": "Puolipitkät hiukset",
                     "price": "75€"
                 },
                 {
+                    "name": "Puolipitkät hiukset",
+                    "price": "90€"
+                },
+                {
                     "name": "Pitkät hiukset",
-                    "price": "48€/h"
+                    "price": "50€/h"
                 },
                 {
                     "name": "Erikoispitkät hiukset",
-                    "price": "48€/h"
+                    "price": "50€/h"
+                },
+                {
+                    "name": "Lisäpalveluna hiustenleikkaus",
+                    "price": "+20€"
                 }
             ]
         },
