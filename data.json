@@ -54,35 +54,34 @@
         },
         {
             "header": "Värit ",
-            "items": [
-                {
-                    "name": "( Yhdellä värillä värjäys )",
-                    "price": ""
-                }
-            ]
+            "items": []
         },
         {
-            "header": "Väripaketit (sis.yhdellä värillä värjäys, leikkaus ja muotoilu.)",
+            "header": "Värit (yhdellä värillä värjäys)",
             "items": [
                 {
                     "name": "Tyviväri max. 2cm",
-                    "price": "85€"
+                    "price": "75€"
                 },
                 {
                     "name": "Väri lyhyet hiukset",
-                    "price": "90€"
+                    "price": "79€"
                 },
                 {
                     "name": "Väri puolipitkät hiukset",
-                    "price": "106€"
+                    "price": "88€"
                 },
                 {
                     "name": "Väri pitkät hiukset",
-                    "price": "121€"
+                    "price": "100€"
                 },
                 {
                     "name": "Väri erikoispitkät hiukset",
-                    "price": "139€"
+                    "price": "120€"
+                },
+                {
+                    "name": "Lisäpalveluna hiustenleikkaus",
+                    "price": "+20€"
                 }
             ]
         },
