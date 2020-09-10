@@ -53,10 +53,6 @@
             ]
         },
         {
-            "header": "Värit ",
-            "items": []
-        },
-        {
             "header": "Värit (yhdellä värillä värjäys)",
             "items": [
                 {
@@ -216,11 +212,11 @@
                 },
                 {
                     "name": "Juhlakampaus",
-                    "price": "50€/h"
+                    "price": "60€/h"
                 },
                 {
                     "name": "Hääkampaus (sis. koekampaus)",
-                    "price": "110€"
+                    "price": "120€"
                 },
                 {
                     "name": "Koekampaus",
