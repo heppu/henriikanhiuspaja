@@ -86,23 +86,27 @@
             ]
         },
         {
-            "header": "Moniväripaketit (sis. usealla värillä värjäys, leikkaus ja muotoilu.)",
+            "header": "Monivärit (Usealla värillä värjäys)",
             "items": [
                 {
                     "name": "Väri lyhyet hiukset",
-                    "price": "105€"
+                    "price": "85€"
                 },
                 {
                     "name": "Väri puolipitkät hiukset",
-                    "price": "121€"
+                    "price": "100€"
                 },
                 {
                     "name": "Väri pitkät hiukset",
-                    "price": "136€"
+                    "price": "125€"
                 },
                 {
                     "name": "Väri erikoispitkät hiukset",
-                    "price": "154€"
+                    "price": "135€"
+                },
+                {
+                    "name": "Lisäpalveluna hiustenleikkaus",
+                    "price": "+20€"
                 }
             ]
         },
