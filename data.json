@@ -349,50 +349,28 @@
             ]
         },
         {
-            "header": "Sokeroinnit",
+            "header": "Kädet / kynnet",
             "items": [
                 {
-                    "name": "Kasvot; huulet / leuka",
+                    "name": "Hemmotteleva käsihoito",
                     "price": ""
                 },
                 {
-                    "name": "Kasvot; huulet, posket, leuka",
+                    "name": "Pikamanikyyri",
                     "price": ""
                 },
                 {
-                    "name": "Sääret",
+                    "name": "Geelilakkaus (uudet)",
                     "price": ""
                 },
                 {
-                    "name": "Bikiniraja",
+                    "name": "Geelilakkaus huolto",
                     "price": ""
                 },
                 {
-                    "name": "Kainalot",
+                    "name": "Kestolakkaus ranskalainen",
                     "price": ""
                 },
-                {
-                    "name": "Kädet",
-                    "price": ""
-                },
-                {
-                    "name": "Sääret ja reidet",
-                    "price": ""
-                }
-            ]
-        },
-        {
-            "header": "Kynnet",
-            "items": [
-                {
-                    "name": "",
-                    "price": ""
-                }
-            ]
-        },
-        {
-            "header": "Kynnet",
-            "items": [
                 {
                     "name": "",
                     "price": ""
