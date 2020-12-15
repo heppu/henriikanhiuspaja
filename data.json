@@ -330,10 +330,22 @@
             ]
         },
         {
-            "header": "Käsihoidot",
+            "header": "Kynnet",
             "items": [
                 {
-                    "name": "Hemmotteleva käsihoito",
+                    "name": "Geelilakkaus (uudet)",
+                    "price": "45€"
+                },
+                {
+                    "name": "Geelilakkaus huolto",
+                    "price": ""
+                },
+                {
+                    "name": "Pikamanikyyri",
+                    "price": ""
+                },
+                {
+                    "name": "Kestolakkaus ranskalainen",
                     "price": ""
                 }
             ]
