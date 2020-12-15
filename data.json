@@ -185,38 +185,17 @@
                     "price": "110€"
                 },
                 {
-                    "name": "",
-                    "price": ""
-                }
-            ]
-        },
-        {
-            "header": "Kampaukset",
-            "items": [
-                {
-                    "name": "Pesu ja föönikampaus",
-                    "price": "30€"
-                },
-                {
-                    "name": "Juhlakampaus",
-                    "price": "60€/h"
-                },
-                {
-                    "name": "Hääkampaus (sis. koekampaus)",
-                    "price": "110€"
-                },
-                {
                     "name": "koekampaus",
                     "price": "15€-50€"
                 }
             ]
         },
         {
-            "header": "",
+            "header": "Hiusten pidennykset",
             "items": [
                 {
-                    "name": "",
-                    "price": ""
+                    "name": "Pidennysten laitto / huolto",
+                    "price": "50€/h"
                 }
             ]
         },
