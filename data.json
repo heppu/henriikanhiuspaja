@@ -223,6 +223,32 @@
                     "price": "15€"
                 }
             ]
+        },
+        {
+            "header": "Ripsien kestotaivutukset",
+            "items": [
+                {
+                    "name": "Lash Lift ripsien kestotaivutus",
+                    "price": "85€"
+                },
+                {
+                    "name": "Ripsien kestotaivutus klipseillä",
+                    "price": "60€"
+                }
+            ]
+        },
+        {
+            "header": "Ripsien kestotaivutukset",
+            "items": [
+                {
+                    "name": "Lash Lift ripsien kestotaivutus",
+                    "price": "85€"
+                },
+                {
+                    "name": "Ripsien kestotaivutus klipseillä",
+                    "price": "60€"
+                }
+            ]
         }
     ]
 }
