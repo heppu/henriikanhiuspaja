@@ -198,8 +198,16 @@
             "header": "Kestotaivutukset",
             "items": [
                 {
-                    "name": "Ripsien kestotaivutus",
+                    "name": "Lash Lift Ripsien kestotaivutus ",
                     "price": "85€"
+                },
+                {
+                    "name": "Ripsien kestotaivutus klipseillä",
+                    "price": "60€"
+                },
+                {
+                    "name": "",
+                    "price": ""
                 }
             ]
         },
