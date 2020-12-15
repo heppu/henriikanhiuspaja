@@ -170,72 +170,19 @@
             ]
         },
         {
-            "header": "Ripset ja kulmat",
+            "header": "Kampaukset",
             "items": [
                 {
-                    "name": "Ripsien ja kulmien värjäys sis. muotoilu",
-                    "price": "28€"
+                    "name": "Pesu ja föönikampaus",
+                    "price": "30€"
                 },
                 {
-                    "name": "Hiusten värjäyksen yhteydessä",
-                    "price": "20€"
+                    "name": "Juhlakampaus",
+                    "price": "60€/h"
                 },
                 {
-                    "name": "Ripsien värjäys",
-                    "price": "18€"
-                },
-                {
-                    "name": "Kulmien värjäys sis. muotoilu",
-                    "price": "18€"
-                },
-                {
-                    "name": "Kulmien muotoilu",
-                    "price": "15€"
-                }
-            ]
-        },
-        {
-            "header": "Ripsienpidennykset ja kestotaivutukset",
-            "items": [
-                {
-                    "name": "Lash Lift Ripsien kestotaivutus ",
-                    "price": "85€"
-                },
-                {
-                    "name": "Ripsien kestotaivutus klipseillä",
-                    "price": "60€"
-                },
-                {
-                    "name": "Volyymiripset (uudet)",
-                    "price": ""
-                },
-                {
-                    "name": "Volyymiripsihuolto 2h",
-                    "price": ""
-                },
-                {
-                    "name": "Pikahuolto",
-                    "price": ""
-                },
-                {
-                    "name": "Volyymiripsihuolto 75min",
-                    "price": ""
-                },
-                {
-                    "name": "Volyymiripsihuolto 90min",
-                    "price": ""
-                },
-                {
-                    "name": "Klassinen ripsienpidennys (uudet)",
-                    "price": ""
-                },
-                {
-                    "name": "Klassinen ripsihuolto 1h",
-                    "price": ""
-                },
-                {
-                    "name": "Ripsipidennysten poisto",
-                    "price": ""
+                    "name": "Hääkampaus (sis. koekampaus)",
+                    "price": "110€"
                 }
             ]
         },
@@ -252,128 +199,7 @@
                 },
                 {
                     "name": "Hääkampaus (sis. koekampaus)",
-                    "price": "120€"
-                },
-                {
-                    "name": "Koekampaus",
-                    "price": "15€ - 50€"
-                }
-            ]
-        },
-        {
-            "header": "Hiustenpidennykset ",
-            "items": [
-                {
-                    "name": "Pidennysten laitto / huolto",
-                    "price": "50€/h"
-                }
-            ]
-        },
-        {
-            "header": "Jalkahoidot",
-            "items": [
-                {
-                    "name": "Jalkahoito 30min",
-                    "price": ""
-                },
-                {
-                    "name": "Jalkahoito",
-                    "price": ""
-                },
-                {
-                    "name": "Jalkahoito lakkauksella",
-                    "price": ""
-                },
-                {
-                    "name": "Jalkojen spa-hoito",
-                    "price": ""
-                }
-            ]
-        },
-        {
-            "header": "Kasvohoidot",
-            "items": [
-                {
-                    "name": "Fresh up -kasvohoito",
-                    "price": ""
-                },
-                {
-                    "name": "Hemmotteleva kasvohoito",
-                    "price": ""
-                },
-                {
-                    "name": "Täydellinen kasvohoito",
-                    "price": ""
-                },
-                {
-                    "name": "Hemmotteleva kasvohoito ihonpuhdistuksella",
-                    "price": ""
-                },
-                {
-                    "name": "Ihonpuhdistus",
-                    "price": ""
-                }
-            ]
-        },
-        {
-            "header": "Sokeroinnit",
-            "items": [
-                {
-                    "name": "Kasvot; huulet / leuka",
-                    "price": ""
-                },
-                {
-                    "name": "Kasvot; huulet, posket, leuka",
-                    "price": ""
-                },
-                {
-                    "name": "Sääret",
-                    "price": ""
-                },
-                {
-                    "name": "Bikiniraja",
-                    "price": ""
-                },
-                {
-                    "name": "Kainalot",
-                    "price": ""
-                },
-                {
-                    "name": "Kädet",
-                    "price": ""
-                },
-                {
-                    "name": "Sääret ja reidet",
-                    "price": ""
-                }
-            ]
-        },
-        {
-            "header": "Kädet / kynnet",
-            "items": [
-                {
-                    "name": "Hemmotteleva käsihoito",
-                    "price": ""
-                },
-                {
-                    "name": "Pikamanikyyri",
-                    "price": ""
-                },
-                {
-                    "name": "Geelilakkaus (uudet)",
-                    "price": ""
-                },
-                {
-                    "name": "Geelilakkaus huolto",
-                    "price": ""
-                },
-                {
-                    "name": "Kestolakkaus ranskalainen",
-                    "price": ""
-                },
-                {
-                    "name": "",
-                    "price": ""
+                    "price": "110€"
                 }
             ]
         }
