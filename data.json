@@ -321,26 +321,19 @@
             ]
         },
         {
-            "header": "Kasvohoidot",
+            "header": "Käsihoidot",
             "items": [
                 {
-                    "name": "Fresh up -kasvohoito",
+                    "name": "Hemmotteleva käsihoito",
                     "price": ""
-                },
+                }
+            ]
+        },
+        {
+            "header": "Käsihoidot",
+            "items": [
                 {
-                    "name": "Hemmotteleva kasvohoito",
-                    "price": ""
-                },
-                {
-                    "name": "Täydellinen kasvohoito",
-                    "price": ""
-                },
-                {
-                    "name": "Hemmotteleva kasvohoito ihonpuhdistuksella",
-                    "price": ""
-                },
-                {
-                    "name": "Ihonpuhdistus",
+                    "name": "Hemmotteleva käsihoito",
                     "price": ""
                 }
             ]
