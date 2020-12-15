@@ -273,6 +273,48 @@
                     "price": ""
                 }
             ]
+        },
+        {
+            "header": "Jalkahoidot",
+            "items": [
+                {
+                    "name": "Jalkahoito 30min",
+                    "price": ""
+                },
+                {
+                    "name": "Jalkahoito",
+                    "price": ""
+                },
+                {
+                    "name": "Jalkahoito lakkauksella",
+                    "price": ""
+                },
+                {
+                    "name": "Jalka spa-hoito",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "header": "Jalkahoidot",
+            "items": [
+                {
+                    "name": "Jalkahoito 30min",
+                    "price": ""
+                },
+                {
+                    "name": "Jalkahoito",
+                    "price": ""
+                },
+                {
+                    "name": "Jalkahoito lakkauksella",
+                    "price": ""
+                },
+                {
+                    "name": "Jalka spa-hoito",
+                    "price": ""
+                }
+            ]
         }
     ]
 }
