@@ -300,23 +300,23 @@
             "items": [
                 {
                     "name": "Fresh up -kasvohoito",
-                    "price": ""
+                    "price": "40€"
                 },
                 {
                     "name": "Hemmotteleva kasvohoito",
-                    "price": ""
+                    "price": "68€"
                 },
                 {
                     "name": "Täydellinen kasvohoito",
-                    "price": ""
+                    "price": "85€"
                 },
                 {
                     "name": "Hemmotteleva kasvohoito ihonpuhdistuksella",
-                    "price": ""
+                    "price": "75€"
                 },
                 {
                     "name": "Ihonpuhdistus",
-                    "price": ""
+                    "price": "55€"
                 }
             ]
         },
