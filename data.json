@@ -296,22 +296,51 @@
             ]
         },
         {
-            "header": "Jalkahoidot",
+            "header": "Kasvohoidot",
             "items": [
                 {
-                    "name": "Jalkahoito 30min",
+                    "name": "Fresh up -kasvohoito",
                     "price": ""
                 },
                 {
-                    "name": "Jalkahoito",
+                    "name": "Hemmotteleva kasvohoito",
                     "price": ""
                 },
                 {
-                    "name": "Jalkahoito lakkauksella",
+                    "name": "Täydellinen kasvohoito",
                     "price": ""
                 },
                 {
-                    "name": "Jalka spa-hoito",
+                    "name": "Hemmotteleva kasvohoito ihonpuhdistuksella",
+                    "price": ""
+                },
+                {
+                    "name": "Ihonpuhdistus",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "header": "Kasvohoidot",
+            "items": [
+                {
+                    "name": "Fresh up -kasvohoito",
+                    "price": ""
+                },
+                {
+                    "name": "Hemmotteleva kasvohoito",
+                    "price": ""
+                },
+                {
+                    "name": "Täydellinen kasvohoito",
+                    "price": ""
+                },
+                {
+                    "name": "Hemmotteleva kasvohoito ihonpuhdistuksella",
+                    "price": ""
+                },
+                {
+                    "name": "Ihonpuhdistus",
                     "price": ""
                 }
             ]
