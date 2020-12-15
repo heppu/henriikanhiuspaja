@@ -183,6 +183,10 @@
                 {
                     "name": "Hääkampaus (sis. koekampaus)",
                     "price": "110€"
+                },
+                {
+                    "name": "",
+                    "price": ""
                 }
             ]
         },
@@ -200,6 +204,28 @@
                 {
                     "name": "Hääkampaus (sis. koekampaus)",
                     "price": "110€"
+                },
+                {
+                    "name": "koekampaus",
+                    "price": "15€-50€"
+                }
+            ]
+        },
+        {
+            "header": "",
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "header": "",
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
                 }
             ]
         }
