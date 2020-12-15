@@ -238,10 +238,22 @@
             ]
         },
         {
-            "header": "Sunnuntaityöt hinta x 2.",
+            "header": "Jalkahoidot",
             "items": [
                 {
-                    "name": "",
+                    "name": "Jalkahoito 30min",
+                    "price": ""
+                },
+                {
+                    "name": "Jalkahoito",
+                    "price": ""
+                },
+                {
+                    "name": "Jalkahoito lakkauksella",
+                    "price": ""
+                },
+                {
+                    "name": "Jalkojen spa-hoito",
                     "price": ""
                 }
             ]
