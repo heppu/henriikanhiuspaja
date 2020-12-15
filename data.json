@@ -259,10 +259,26 @@
             ]
         },
         {
-            "header": "Perimme peruttamaattomasta ajasta 50% palvelun hinnasta.",
+            "header": "Kasvohoidot",
             "items": [
                 {
-                    "name": "",
+                    "name": "Fresh up -kasvohoito",
+                    "price": ""
+                },
+                {
+                    "name": "Hemmotteleva kasvohoito",
+                    "price": ""
+                },
+                {
+                    "name": "Täydellinen kasvohoito",
+                    "price": ""
+                },
+                {
+                    "name": "Hemmotteleva kasvohoito ihonpuhdistuksella",
+                    "price": ""
+                },
+                {
+                    "name": "Ihonpuhdistus",
                     "price": ""
                 }
             ]
