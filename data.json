@@ -195,7 +195,7 @@
             ]
         },
         {
-            "header": "Kestotaivutukset",
+            "header": "Ripsienpidennykset ja kestotaivutukset",
             "items": [
                 {
                     "name": "Lash Lift Ripsien kestotaivutus ",
@@ -204,6 +204,38 @@
                 {
                     "name": "Ripsien kestotaivutus klipseillä",
                     "price": "60€"
+                },
+                {
+                    "name": "Volyymiripset (uudet)",
+                    "price": ""
+                },
+                {
+                    "name": "Volyymiripsihuolto 2h",
+                    "price": ""
+                },
+                {
+                    "name": "Pikahuolto",
+                    "price": ""
+                },
+                {
+                    "name": "Volyymiripsihuolto 75min",
+                    "price": ""
+                },
+                {
+                    "name": "Volyymiripsihuolto 90min",
+                    "price": ""
+                },
+                {
+                    "name": "Klassinen ripsienpidennys (uudet)",
+                    "price": ""
+                },
+                {
+                    "name": "Klassinen ripsihuolto 1h",
+                    "price": ""
+                },
+                {
+                    "name": "Ripsipidennysten poisto",
+                    "price": ""
                 }
             ]
         },
