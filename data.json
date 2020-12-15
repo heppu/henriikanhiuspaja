@@ -314,6 +314,72 @@
                     "price": ""
                 }
             ]
+        },
+        {
+            "header": "Sokeroinnit",
+            "items": [
+                {
+                    "name": "Kasvot; huulet / leuka",
+                    "price": ""
+                },
+                {
+                    "name": "Kasvot; huulet, posket, leuka",
+                    "price": ""
+                },
+                {
+                    "name": "Sääret",
+                    "price": ""
+                },
+                {
+                    "name": "Bikiniraja",
+                    "price": ""
+                },
+                {
+                    "name": "Kainalot",
+                    "price": ""
+                },
+                {
+                    "name": "Kädet",
+                    "price": ""
+                },
+                {
+                    "name": "Sääret ja reidet",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "header": "Sokeroinnit",
+            "items": [
+                {
+                    "name": "Kasvot; huulet / leuka",
+                    "price": ""
+                },
+                {
+                    "name": "Kasvot; huulet, posket, leuka",
+                    "price": ""
+                },
+                {
+                    "name": "Sääret",
+                    "price": ""
+                },
+                {
+                    "name": "Bikiniraja",
+                    "price": ""
+                },
+                {
+                    "name": "Kainalot",
+                    "price": ""
+                },
+                {
+                    "name": "Kädet",
+                    "price": ""
+                },
+                {
+                    "name": "Sääret ja reidet",
+                    "price": ""
+                }
+            ]
         }
     ]
 }
