@@ -196,6 +196,10 @@
                 {
                     "name": "Pidennysten laitto / huolto",
                     "price": "50€/h"
+                },
+                {
+                    "name": "",
+                    "price": ""
                 }
             ]
         },
