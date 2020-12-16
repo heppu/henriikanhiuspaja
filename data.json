@@ -417,6 +417,10 @@
                 {
                     "name": "Ylähuuli",
                     "price": "15€"
+                },
+                {
+                    "name": "Biginiraja",
+                    "price": ""
                 }
             ]
         }
