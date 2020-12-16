@@ -200,6 +200,10 @@
                 {
                     "name": ".",
                     "price": ""
+                },
+                {
+                    "name": ".",
+                    "price": ""
                 }
             ]
         },
@@ -330,6 +334,10 @@
                 {
                     "name": "Hemmotteleva käsihoito",
                     "price": "45€"
+                },
+                {
+                    "name": ".",
+                    "price": ""
                 }
             ]
         },
