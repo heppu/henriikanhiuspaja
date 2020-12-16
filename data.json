@@ -370,43 +370,6 @@
                     "price": "30€"
                 },
                 {
-                    "name": "Bikiniraja",
-                    "price": ""
-                },
-                {
-                    "name": "Ylähuuli",
-                    "price": "15€"
-                },
-                {
-                    "name": "Ylähuuli ja leuka",
-                    "price": "18€"
-                },
-                {
-                    "name": "Kasvot; leika, posket, ylähuuli",
-                    "price": "25€"
-                }
-            ]
-        },
-        {
-            "header": "Sokerointi",
-            "items": [
-                {
-                    "name": "Sääret",
-                    "price": "30€"
-                },
-                {
-                    "name": "Sääret ja reidet",
-                    "price": "55€"
-                },
-                {
-                    "name": "Kainalot",
-                    "price": "18€"
-                },
-                {
-                    "name": "Kädet",
-                    "price": "30€"
-                },
-                {
                     "name": "Kasvot (leuka, posket, ylähuuli)",
                     "price": "25€"
                 },
