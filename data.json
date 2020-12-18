@@ -266,7 +266,7 @@
                 },
                 {
                     "name": "Klassiset ripsienpidennykset (uudet)",
-                    "price": ""
+                    "price": "85€"
                 },
                 {
                     "name": "Klassinen ripsihuolto",
@@ -285,10 +285,6 @@
         {
             "header": "Jalkahoidot",
             "items": [
-                {
-                    "name": "Jalkahoito 30min",
-                    "price": ""
-                },
                 {
                     "name": "Jalkahoito",
                     "price": "58€"
@@ -350,7 +346,7 @@
                 },
                 {
                     "name": "Geelilakkaus huolto",
-                    "price": ""
+                    "price": "55€"
                 },
                 {
                     "name": "Pikamanikyyri",
@@ -358,7 +354,7 @@
                 },
                 {
                     "name": "Kestolakkaus ranskalainen",
-                    "price": ""
+                    "price": "50€"
                 },
                 {
                     "name": "",
@@ -399,7 +395,7 @@
                 },
                 {
                     "name": "Biginiraja",
-                    "price": ""
+                    "price": "25€"
                 }
             ]
         }
