@@ -398,6 +398,48 @@
                     "price": "25€"
                 }
             ]
+        },
+        {
+            "header": "Meikkaukset",
+            "items": [
+                {
+                    "name": "Arkimeikki",
+                    "price": "55€"
+                },
+                {
+                    "name": "Juhlameikki",
+                    "price": "60€-65€"
+                },
+                {
+                    "name": "Häämeikki",
+                    "price": "85€"
+                },
+                {
+                    "name": "(sis. suunnittelu ja sulhasen puuterointi)",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "header": "Meikkaukset",
+            "items": [
+                {
+                    "name": "Arkimeikki",
+                    "price": "55€"
+                },
+                {
+                    "name": "Juhlameikki",
+                    "price": "60€-65€"
+                },
+                {
+                    "name": "Häämeikki",
+                    "price": "85€"
+                },
+                {
+                    "name": "(sis. suunnittelu ja sulhasen puuterointi)",
+                    "price": ""
+                }
+            ]
         }
     ]
 }
