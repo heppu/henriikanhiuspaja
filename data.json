@@ -233,7 +233,7 @@
             ]
         },
         {
-            "header": "Ripsien kestotaivutukset",
+            "header": "Ripsien kestotaivutukset / kulmien laminointi",
             "items": [
                 {
                     "name": "Lash Lift ripsien kestotaivutus",
@@ -242,6 +242,10 @@
                 {
                     "name": "Ripsien kestotaivutus klipseillä",
                     "price": "60€"
+                },
+                {
+                    "name": "Kulmien Laminointi",
+                    "price": "58€"
                 },
                 {
                     "name": ".",
