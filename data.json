@@ -145,7 +145,7 @@
             ]
         },
         {
-            "header": "Olaplex-tehohoito",
+            "header": "Tehohoidot",
             "items": [
                 {
                     "name": "Olaplex-tehohoito",
@@ -166,6 +166,14 @@
                 {
                     "name": "Leikkauksen yhteydessä",
                     "price": "20€"
+                },
+                {
+                    "name": "K18Hair- tehohoito",
+                    "price": "30€ - 45€"
+                },
+                {
+                    "name": "K18Hair-tehohoito palvelun yhteydessä",
+                    "price": "25€ - 35€"
                 }
             ]
         },
