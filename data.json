@@ -220,23 +220,27 @@
             "items": [
                 {
                     "name": "Ripsien ja kulmien värjäys sis.muotoilu",
-                    "price": "28€"
-                },
-                {
-                    "name": "(Hiusten värjäyksen/kasvohoidon yhteydessä)",
-                    "price": "20€"
+                    "price": "28€ (20€)"
                 },
                 {
                     "name": "Ripsien värjäys",
-                    "price": "18€"
+                    "price": "20€ (15€)"
                 },
                 {
                     "name": "Kulmien värjäys sis.muotoilu",
-                    "price": "18€"
+                    "price": "20€ (15€)"
                 },
                 {
                     "name": "Kulmien muotoilu",
                     "price": "15€"
+                },
+                {
+                    "name": "(suluissa oleva hinta: palvelun yhteydessä)",
+                    "price": ""
+                },
+                {
+                    "name": "",
+                    "price": ""
                 }
             ]
         },
