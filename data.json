@@ -474,6 +474,24 @@
                     "price": ""
                 }
             ]
+        },
+        {
+            "header": "Sunnuntaityöt hinta x 2.",
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "header": "Sunnuntaityöt hinta x 2.",
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
         }
     ]
 }
