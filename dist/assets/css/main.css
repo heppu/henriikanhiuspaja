@@ -196,19 +196,6 @@ a {
 }
 
 
-/* Lahjakortti */
-
-#giftcard {
-    height: 500px;
-}
-
-@media screen and (max-width: 913px) {
-    #giftcard {
-        height: 856px;
-    }
-}
-
-
 /* Containers */
 
 .container {
