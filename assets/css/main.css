@@ -196,10 +196,29 @@ a {
 }
 
 
+/* Lahjakortti */
+
+#giftcard {
+    height: 500px;
+}
+
+@media screen and (max-width: 913px) {
+    #giftcard {
+        height: 856px;
+    }
+}
+
+
 /* Galleria */
 
 #embedsocial {
-    height: 768px;
+    height: 866px;
+}
+
+@media screen and (max-width: 1680px) {
+    #embedsocial {
+        height: 648px;
+    }
 }
 
 @media screen and (max-width: 1280px) {
@@ -211,6 +230,12 @@ a {
 @media screen and (max-width: 913px) {
     #embedsocial {
         height: 1300px;
+    }
+}
+
+@media screen and (max-width: 642px) {
+    #embedsocial {
+        height: 3042px;
     }
 }
 
