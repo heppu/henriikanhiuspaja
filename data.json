@@ -79,6 +79,10 @@
                 {
                     "name": "Lisäpalveluna hiustenleikkaus",
                     "price": "+20€"
+                },
+                {
+                    "name": "Lisäpalveluna mallimuutosleikkaus",
+                    "price": "+30€"
                 }
             ]
         },
