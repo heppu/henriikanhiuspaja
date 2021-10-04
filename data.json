@@ -17,7 +17,7 @@
                 },
                 {
                     "name": "Pitkien hiusten tasausleikkaus",
-                    "price": "29€"
+                    "price": "31€"
                 },
                 {
                     "name": "Leikkaus alle 45min",
@@ -29,27 +29,27 @@
                 },
                 {
                     "name": "Otsa-/niskahiusten leikkaus",
-                    "price": "16€"
+                    "price": "18€"
                 },
                 {
                     "name": "Koneleikkaus",
-                    "price": "16€"
+                    "price": "18€"
                 },
                 {
                     "name": "Leikkaus alle 7.v",
-                    "price": "20€"
-                },
-                {
-                    "name": "Leikkaus alle 12.v",
                     "price": "25€"
                 },
                 {
+                    "name": "Leikkaus alle 12.v",
+                    "price": "27€"
+                },
+                {
                     "name": "Mallinmuutosleikkaus alle 12.v",
-                    "price": "29€"
+                    "price": "33€"
                 },
                 {
                     "name": "Parran muotoilu",
-                    "price": "12€"
+                    "price": "15€"
                 }
             ]
         },
