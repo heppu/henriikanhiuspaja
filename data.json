@@ -90,19 +90,19 @@
             "header": "Monivärit (Usealla värillä värjäys)",
             "items": [
                 {
-                    "name": "Väri lyhyet hiukset",
+                    "name": "Moniväri lyhyet hiukset",
                     "price": "90€"
                 },
                 {
-                    "name": "Väri puolipitkät hiukset",
+                    "name": "Moniväri puolipitkät hiukset",
                     "price": "105€"
                 },
                 {
-                    "name": "Väri pitkät hiukset",
+                    "name": "Moniväri pitkät hiukset",
                     "price": "130€"
                 },
                 {
-                    "name": "Väri erikoispitkät hiukset",
+                    "name": "Moniväri erikoispitkät hiukset",
                     "price": "140€"
                 },
                 {
