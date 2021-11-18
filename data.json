@@ -156,23 +156,11 @@
             "items": [
                 {
                     "name": "Olaplex-tehohoito",
-                    "price": "30€"
+                    "price": "30€ -45€"
                 },
                 {
-                    "name": "Värjäyksen yhteydessä",
-                    "price": "15€"
-                },
-                {
-                    "name": "Vaalennuksen yhteydessä",
-                    "price": "20€"
-                },
-                {
-                    "name": "Permanentin yhteydessä",
-                    "price": "25€"
-                },
-                {
-                    "name": "Leikkauksen yhteydessä",
-                    "price": "20€"
+                    "name": "Olaplex-tehohoito palvelun yhteydessä",
+                    "price": "15€ - 30€"
                 },
                 {
                     "name": "K18Hair- tehohoito",
