@@ -332,6 +332,14 @@
                 {
                     "name": "Ihonpuhdistus",
                     "price": "55€"
+                },
+                {
+                    "name": "Ultraäänikasvohoito",
+                    "price": "70€"
+                },
+                {
+                    "name": "Timanttihiontakasvohoito",
+                    "price": "70€"
                 }
             ]
         },
