@@ -191,14 +191,6 @@
                 {
                     "name": "Pidennysten laitto / huolto",
                     "price": "60€/h"
-                },
-                {
-                    "name": ".",
-                    "price": ""
-                },
-                {
-                    "name": ".",
-                    "price": ""
                 }
             ]
         },
@@ -224,10 +216,6 @@
                 {
                     "name": "(suluissa oleva hinta: palvelun yhteydessä)",
                     "price": ""
-                },
-                {
-                    "name": "",
-                    "price": ""
                 }
             ]
         },
@@ -245,10 +233,6 @@
                 {
                     "name": "Kulmien Laminointi",
                     "price": "58€"
-                },
-                {
-                    "name": ".",
-                    "price": ""
                 }
             ]
         },
@@ -341,10 +325,6 @@
                 {
                     "name": "Hemmotteleva käsihoito",
                     "price": "45€"
-                },
-                {
-                    "name": ".",
-                    "price": ""
                 }
             ]
         },
@@ -366,10 +346,6 @@
                 {
                     "name": "Kestolakkaus ranskalainen",
                     "price": "55€"
-                },
-                {
-                    "name": "",
-                    "price": ""
                 }
             ]
         },
