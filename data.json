@@ -257,27 +257,27 @@
             "items": [
                 {
                     "name": "Volyymiripset (uudet)",
-                    "price": "115€"
+                    "price": "120€"
                 },
                 {
                     "name": "Volyymiripsihuolto ",
-                    "price": "65€-80€"
+                    "price": "65€-90€"
                 },
                 {
                     "name": "Pikahuolto (volyymit)",
-                    "price": "45€-50€"
+                    "price": "50€-55€"
                 },
                 {
                     "name": "Klassiset ripsienpidennykset (uudet)",
-                    "price": "90€"
+                    "price": "100"
                 },
                 {
                     "name": "Klassinen ripsihuolto",
-                    "price": "55€-65€"
+                    "price": "60€-70€"
                 },
                 {
                     "name": "Pikahuolto (klassiset)",
-                    "price": "40€-45€"
+                    "price": "50€-55€"
                 },
                 {
                     "name": "Pidennysten poisto",
