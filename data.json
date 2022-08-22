@@ -97,23 +97,23 @@
             "items": [
                 {
                     "name": "Moniväri lyhyet hiukset",
-                    "price": "90€"
+                    "price": "95€"
                 },
                 {
                     "name": "Moniväri puolipitkät hiukset",
-                    "price": "105€"
+                    "price": "119€"
                 },
                 {
                     "name": "Moniväri pitkät hiukset",
-                    "price": "130€"
-                },
-                {
-                    "name": "Moniväri erikoispitkät hiukset",
                     "price": "140€"
                 },
                 {
+                    "name": "Moniväri erikoispitkät hiukset",
+                    "price": "150€"
+                },
+                {
                     "name": "Lisäpalveluna hiustenleikkaus",
-                    "price": "+20€"
+                    "price": "+25€"
                 },
                 {
                     "name": "Lisäpalveluna mallinmuutosleikkaus",
