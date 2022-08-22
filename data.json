@@ -403,19 +403,15 @@
             "items": [
                 {
                     "name": "Arkimeikki",
-                    "price": "55€"
+                    "price": "60€"
                 },
                 {
                     "name": "Juhlameikki",
-                    "price": "60€-65€"
+                    "price": "70€"
                 },
                 {
-                    "name": "Häämeikki",
-                    "price": "85€"
-                },
-                {
-                    "name": "(sis. suunnittelu ja sulhasen puuterointi)",
-                    "price": ""
+                    "name": "Häämeikki (sis. koemeikin)",
+                    "price": "115€"
                 }
             ]
         },
