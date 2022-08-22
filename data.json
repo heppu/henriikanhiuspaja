@@ -126,11 +126,11 @@
             "items": [
                 {
                     "name": "Vaalennukset",
-                    "price": "50€/h"
+                    "price": "60€/h"
                 },
                 {
                     "name": "Raidoitukset",
-                    "price": "50€/h"
+                    "price": "60€/h"
                 }
             ]
         },
