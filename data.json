@@ -337,6 +337,10 @@
                 {
                     "name": "Hemmotteleva käsihoito",
                     "price": "45€"
+                },
+                {
+                    "name": "Pika manikyyri",
+                    "price": "35€"
                 }
             ]
         },
