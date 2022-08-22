@@ -307,23 +307,19 @@
             "items": [
                 {
                     "name": "Fresh up -kasvohoito",
-                    "price": "40€"
-                },
-                {
-                    "name": "Hemmotteleva kasvohoito",
-                    "price": "69€"
-                },
-                {
-                    "name": "Täydellinen kasvohoito",
-                    "price": "85€"
+                    "price": "45€"
                 },
                 {
                     "name": "Hemmotteleva kasvohoito ihonpuhdistuksella",
                     "price": "75€"
                 },
                 {
+                    "name": "Täydellinen kasvohoito",
+                    "price": "90€"
+                },
+                {
                     "name": "Ihonpuhdistus",
-                    "price": "55€"
+                    "price": "60€"
                 },
                 {
                     "name": "Ultraäänikasvohoito",
