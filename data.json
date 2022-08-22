@@ -184,11 +184,19 @@
                     "price": "60€/h"
                 },
                 {
-                    "name": "Hääkampaus (sis. koekampaus)",
+                    "name": "Hääkampaus pitkät hiukset (sis. koekampaus)",
+                    "price": "140€"
+                },
+                {
+                    "name": "Hääkampaus puolipitkät hiukset (sis. koekampaus)",
                     "price": "130€"
                 },
                 {
-                    "name": "koekampaus",
+                    "name": "Hääkampaus lyhyet hiukset (sis. koekampaus)",
+                    "price": "110€"
+                },
+                {
+                    "name": "Koekampaus ",
                     "price": "30€-60€"
                 }
             ]
