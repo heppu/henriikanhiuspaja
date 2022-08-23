@@ -269,7 +269,7 @@
                 },
                 {
                     "name": "Klassiset ripsienpidennykset (uudet)",
-                    "price": "100"
+                    "price": "100€"
                 },
                 {
                     "name": "Klassinen ripsihuolto",
@@ -393,7 +393,7 @@
                     "price": "15€"
                 },
                 {
-                    "name": "Biginiraja",
+                    "name": "Bikiniraja",
                     "price": "30€"
                 }
             ]
