@@ -434,6 +434,24 @@
             ]
         },
         {
+            "header": "Peruutathan aikasi 24h ennen varausta.",
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "header": "Perimme peruuttamattomista ajoista 75% palvelun hinnasta. ",
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
             "header": "Perimme peruuttamattomista ajoista 75% palvelun hinnasta. ",
             "items": [
                 {
