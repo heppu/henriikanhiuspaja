@@ -318,20 +318,20 @@
             "header": "Kasvohoidot",
             "items": [
                 {
-                    "name": "Fresh up -kasvohoito",
+                    "name": "Kasvojen virkistyshoito",
                     "price": "45€"
                 },
                 {
-                    "name": "Hemmotteleva kasvohoito ihonpuhdistuksella",
-                    "price": "75€"
-                },
-                {
-                    "name": "Täydellinen kasvohoito",
-                    "price": "90€"
-                },
-                {
-                    "name": "Ihonpuhdistus",
+                    "name": "Ihon puhdistus",
                     "price": "60€"
+                },
+                {
+                    "name": "Kasvohoito",
+                    "price": "70€"
+                },
+                {
+                    "name": "      -ihonpuhdistuksella",
+                    "price": "+15€"
                 },
                 {
                     "name": "Ultraäänikasvohoito",
@@ -340,6 +340,18 @@
                 {
                     "name": "Timanttihiontakasvohoito",
                     "price": "70€"
+                },
+                {
+                    "name": "Happokuorinta",
+                    "price": "85€"
+                },
+                {
+                    "name": "Kiinteyttävä kasvohoito",
+                    "price": "90€"
+                },
+                {
+                    "name": "Kasvohieronta",
+                    "price": "45€"
                 }
             ]
         },
