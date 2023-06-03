@@ -14,16 +14,20 @@
                     "price": "28€"
                 },
                 {
-                    "name": "Leikkaus alle 30min (kampa leikkaus)",
-                    "price": "30€"
-                },
-                {
-                    "name": "Miesten mallinmuutosleikkaus",
+                    "name": "Leikkaus alle 45min (saksi+kampa leikkaus)",
                     "price": "33€"
                 },
                 {
-                    "name": "Pitkien hiusten tasausleikkaus",
-                    "price": "31€"
+                    "name": "Miesten pitkien hiusten leikkaus",
+                    "price": "33€"
+                },
+                {
+                    "name": "Miesten mallinmuutosleikkaus",
+                    "price": "34€"
+                },
+                {
+                    "name": "Pitkien hiusten tasausleikkaus (max.2cm pois)",
+                    "price": "33€"
                 },
                 {
                     "name": "Leikkaus alle 45min",
@@ -34,8 +38,12 @@
                     "price": "56€"
                 },
                 {
-                    "name": "Otsa-/niskahiusten leikkaus",
+                    "name": "Otsa-/niskahiusten siistiminen",
                     "price": "20€"
+                },
+                {
+                    "name": "Uuden otsatukan leikkaus",
+                    "price": "25€"
                 },
                 {
                     "name": "Koneleikkaus",
