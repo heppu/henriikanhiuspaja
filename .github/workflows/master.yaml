@@ -16,5 +16,7 @@ jobs:
     - run: git checkout gh-pages
     - run: cp dist/index.html ./
     - run: git diff
+    - run: git config --local user.email "action@github.com"
+    - run: git config --local user.name "GitHub Action"
     - run: git commit -am "Update GH pages"
     - run: git push
