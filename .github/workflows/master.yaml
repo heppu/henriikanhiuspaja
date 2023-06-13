@@ -1,0 +1,20 @@
+on:
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  publish-pages:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - run: make
+    - run: git checkout gh-pages
+    - run: cp dist/index.html ./
+    - run: git diff
+    - run: git commit -am "Update GH pages"
+    - run: git push
