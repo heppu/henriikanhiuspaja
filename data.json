@@ -146,8 +146,12 @@
             "header": "Kiharakäsittelyt",
             "items": [
                 {
-                    "name": "Lyhyet hiukset",
+                    "name": "Osapään kihara",
                     "price": "75€"
+                },
+                {
+                    "name": "lyhyet hiukset",
+                    "price": "90"
                 },
                 {
                     "name": "Lisäpalveluna hiustenleikkaus",
