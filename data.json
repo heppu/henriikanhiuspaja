@@ -23,19 +23,19 @@
                 },
                 {
                     "name": "Miesten mallinmuutosleikkaus",
-                    "price": "34€"
+                    "price": "35€"
                 },
                 {
                     "name": "Pitkien hiusten tasausleikkaus (max.2cm pois)",
-                    "price": "33€"
+                    "price": "34€"
                 },
                 {
                     "name": "Leikkaus alle 45min",
-                    "price": "42€"
+                    "price": "44€"
                 },
                 {
                     "name": "Mallinmuutosleikkaus alle 60min",
-                    "price": "56€"
+                    "price": "59€"
                 },
                 {
                     "name": "Otsa-/niskahiusten siistiminen",
@@ -43,7 +43,7 @@
                 },
                 {
                     "name": "Uuden otsatukan leikkaus",
-                    "price": "25€"
+                    "price": "27€"
                 },
                 {
                     "name": "Koneleikkaus",
@@ -51,7 +51,7 @@
                 },
                 {
                     "name": "Leikkaus alle 5.v",
-                    "price": "25€"
+                    "price": "26€"
                 },
                 {
                     "name": "Leikkaus alle 10.v",
@@ -59,11 +59,11 @@
                 },
                 {
                     "name": "Mallinmuutosleikkaus alle 10.v",
-                    "price": "33€"
+                    "price": "34€"
                 },
                 {
                     "name": "Parran muotoilu",
-                    "price": "15€"
+                    "price": "16€"
                 }
             ]
         },
