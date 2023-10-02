@@ -386,6 +386,10 @@
                 {
                     "name": "Varpaankynsien geelilakkaus",
                     "price": "50€"
+                },
+                {
+                    "name": "Geelilakkauksen poisto",
+                    "price": "30€"
                 }
             ]
         },
