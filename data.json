@@ -240,10 +240,6 @@
                 {
                     "name": "Kulmien muotoilu",
                     "price": "15€"
-                },
-                {
-                    "name": "(suluissa oleva hinta: palvelun yhteydessä)",
-                    "price": ""
                 }
             ]
         },
@@ -269,27 +265,27 @@
                 },
                 {
                     "name": "Volyymiripsihuolto ",
-                    "price": "65€-90€"
+                    "price": "70€-90€"
                 },
                 {
                     "name": "Pikahuolto (volyymit)",
-                    "price": "50€-55€"
+                    "price": "50€-60€"
                 },
                 {
                     "name": "Klassiset ripsienpidennykset (uudet)",
-                    "price": "100€"
+                    "price": "110€"
                 },
                 {
                     "name": "Klassinen ripsihuolto",
-                    "price": "60€-70€"
+                    "price": "65€-75€"
                 },
                 {
                     "name": "Pikahuolto (klassiset)",
-                    "price": "50€-55€"
+                    "price": "55€-60€"
                 },
                 {
                     "name": "Pidennysten poisto",
-                    "price": "20€"
+                    "price": "25€"
                 }
             ]
         },
