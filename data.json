@@ -443,15 +443,19 @@
             "items": [
                 {
                     "name": "Arkimeikki",
-                    "price": "60€"
+                    "price": "65€"
                 },
                 {
                     "name": "Juhlameikki",
-                    "price": "75€"
+                    "price": "80€"
                 },
                 {
-                    "name": "Häämeikki (sis. koemeikin)",
+                    "name": "Häämeikki (sis. meikin suunnittelu)",
                     "price": "125€"
+                },
+                {
+                    "name": "Häämeikki (sis. koemeikin teko kokonaisuudessaan)",
+                    "price": "140€"
                 }
             ]
         },
