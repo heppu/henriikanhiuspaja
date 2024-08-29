@@ -168,18 +168,26 @@
             "items": [
                 {
                     "name": "Olaplex-tehohoito",
-                    "price": "35€ -50€"
+                    "price": "40€ -55€"
                 },
                 {
                     "name": "Olaplex-tehohoito palvelun yhteydessä",
-                    "price": "20€ - 30€"
+                    "price": "25€ - 35€"
                 },
                 {
                     "name": "K18Hair- tehohoito",
-                    "price": "35€ - 50€"
+                    "price": "40€ - 55€"
                 },
                 {
                     "name": "K18Hair-tehohoito palvelun yhteydessä",
+                    "price": "25€ - 35€"
+                },
+                {
+                    "name": "Bio-Molecule Repair - tehohoito",
+                    "price": "40€ - 55€"
+                },
+                {
+                    "name": "Bio-Molecule Repair-tehohoito palvelun yhteydessä",
                     "price": "25€ - 35€"
                 }
             ]
