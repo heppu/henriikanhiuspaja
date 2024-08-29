@@ -11,59 +11,59 @@
             "items": [
                 {
                     "name": "Leikkaus alle 30min (kone+kampa leikkaus)",
-                    "price": "30€"
+                    "price": "32€"
                 },
                 {
                     "name": "Leikkaus alle 45min (saksi+kampa leikkaus)",
-                    "price": "34€"
+                    "price": "36€"
                 },
                 {
                     "name": "Miesten pitkien hiusten leikkaus",
-                    "price": "34€"
+                    "price": "36€"
                 },
                 {
                     "name": "Miesten mallinmuutosleikkaus",
-                    "price": "35€"
+                    "price": "38€"
                 },
                 {
                     "name": "Pitkien hiusten tasausleikkaus (max.2cm pois)",
-                    "price": "34€"
+                    "price": "36€"
                 },
                 {
                     "name": "Leikkaus alle 45min",
-                    "price": "44€"
+                    "price": "46€"
                 },
                 {
                     "name": "Mallinmuutosleikkaus alle 60min",
-                    "price": "59€"
+                    "price": "62€"
                 },
                 {
                     "name": "Otsa-/niskahiusten siistiminen",
-                    "price": "20€"
+                    "price": "25€"
                 },
                 {
                     "name": "Uuden otsatukan leikkaus",
-                    "price": "27€"
-                },
-                {
-                    "name": "Koneleikkaus",
-                    "price": "20€"
-                },
-                {
-                    "name": "Leikkaus alle 5.v",
-                    "price": "26€"
-                },
-                {
-                    "name": "Leikkaus alle 10.v",
                     "price": "28€"
                 },
                 {
+                    "name": "Koneleikkaus",
+                    "price": "25€"
+                },
+                {
+                    "name": "Leikkaus alle 5.v",
+                    "price": "28€"
+                },
+                {
+                    "name": "Leikkaus alle 10.v",
+                    "price": "30€"
+                },
+                {
                     "name": "Mallinmuutosleikkaus alle 10.v",
-                    "price": "34€"
+                    "price": "36€"
                 },
                 {
                     "name": "Parran muotoilu",
-                    "price": "16€"
+                    "price": "18€"
                 }
             ]
         },
