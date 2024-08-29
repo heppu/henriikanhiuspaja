@@ -197,27 +197,27 @@
             "items": [
                 {
                     "name": "Pesu ja föönikampaus",
-                    "price": "30€"
+                    "price": "35€"
                 },
                 {
                     "name": "Juhlakampaus",
-                    "price": "70€/h"
+                    "price": "75€/h"
                 },
                 {
                     "name": "Hääkampaus pitkät hiukset (sis. koekampaus)",
-                    "price": "160€"
+                    "price": "170€"
                 },
                 {
                     "name": "Hääkampaus puolipitkät hiukset (sis. koekampaus)",
-                    "price": "140€"
+                    "price": "150€"
                 },
                 {
                     "name": "Hääkampaus lyhyet hiukset (sis. koekampaus)",
-                    "price": "110€"
+                    "price": "115€"
                 },
                 {
                     "name": "Koekampaus ",
-                    "price": "30€-60€"
+                    "price": "35€-65€"
                 }
             ]
         },
