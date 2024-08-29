@@ -72,23 +72,23 @@
             "items": [
                 {
                     "name": "Tyviväri/väri lyhyet hiukset",
-                    "price": "80€"
+                    "price": "85€"
                 },
                 {
                     "name": "Tyviväri pitkäthiukset (max. 2cm)",
-                    "price": "99€"
-                },
-                {
-                    "name": "Väri puolipitkät hiukset",
                     "price": "105€"
                 },
                 {
+                    "name": "Väri puolipitkät hiukset",
+                    "price": "110€"
+                },
+                {
                     "name": "Väri pitkät hiukset",
-                    "price": "125€"
+                    "price": "130€"
                 },
                 {
                     "name": "Väri erikoispitkät hiukset",
-                    "price": "140€"
+                    "price": "145€"
                 },
                 {
                     "name": "Lisäpalveluna hiustenleikkaus",
