@@ -13,4 +13,4 @@ Web pages for [henriikanhiuspaja.fi](henriikanhiuspaja.fi)
 
 ## Deployment
 
-Changes in master will trigger travis which runs `go run render.go` and deploys dist to github pages.
+Changes in master will trigger action which runs `go run render.go` and deploys dist to github pages.
