@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/heppu/henriikanhiuspaja.svg?token=xsgXLQpppqT3ngDxvNNC&branch=master)](https://travis-ci.com/heppu/henriikanhiuspaja)
+[![.github/workflows/master.yaml](https://github.com/heppu/henriikanhiuspaja/actions/workflows/master.yaml/badge.svg)](https://github.com/heppu/henriikanhiuspaja/actions/workflows/master.yaml) [![pages-build-deployment](https://github.com/heppu/henriikanhiuspaja/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/heppu/henriikanhiuspaja/actions/workflows/pages/pages-build-deployment)
 
 # Henriikan hiuspaja
 
