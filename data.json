@@ -234,11 +234,15 @@
             ]
         },
         {
-            "header": "Hiusten pidennykset",
+            "header": "Hiusten pidennykset (teippipidennykset)",
             "items": [
                 {
-                    "name": "Pidennysten laitto / huolto",
-                    "price": "75€/h"
+                    "name": "koko pään pidennysten laitto / huolto",
+                    "price": "85€"
+                },
+                {
+                    "name": "osapään pidennysten laitto / huolto",
+                    "price": "55€"
                 }
             ]
         },
