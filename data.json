@@ -318,11 +318,11 @@
             "items": [
                 {
                     "name": "Jalkahoito",
-                    "price": "68€"
+                    "price": "69€"
                 },
                 {
                     "name": "Jalkahoito lakkauksella",
-                    "price": "73€"
+                    "price": "74€"
                 },
                 {
                     "name": "Osa jalkahoito",
@@ -334,7 +334,7 @@
                 },
                 {
                     "name": "Varpaidenkynsien geelilakkaus",
-                    "price": "52€"
+                    "price": "55€"
                 }
             ]
         },
