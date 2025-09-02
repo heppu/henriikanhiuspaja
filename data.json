@@ -205,7 +205,15 @@
                 },
                 {
                     "name": "Juhlakampaus",
-                    "price": "75€/h"
+                    "price": "95€"
+                },
+                {
+                    "name": "Pikakampaus (letti,kiharata, ei nuttura)",
+                    "price": "45€"
+                },
+                {
+                    "name": "Yo- / vanhojentanssikampaus",
+                    "price": "98€"
                 },
                 {
                     "name": "Hääkampaus pitkät hiukset (sis. koekampaus)",
